@@ -22,6 +22,7 @@ mvn spring-boot:run
 ```shell
 cd frontend
 
+-- open index.html in Browser
+
 ```
 
-* open index.html in Browser
