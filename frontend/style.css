@@ -1,0 +1,17 @@
+body {
+    background: #1d2630;
+}
+
+* {
+    color: white;
+}
+
+#Update {
+    display: none;
+}
+
+button {
+    color: black;
+    margin-right: 1rem;
+    padding: 0.2rem;
+}
