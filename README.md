@@ -28,7 +28,12 @@ cd frontend
 
 ## Screenshots
 
+### Adding an Employee
 ![Add Employee](https://github.com/Neelesh-BU/spring-crud-app/blob/main/Screenshots/1-AddEmployee.png?raw=true)
+
+### Updating an Employee
 ![Update Employee](https://github.com/Neelesh-BU/spring-crud-app/blob/main/Screenshots/2-UpdatingEmployee.png?raw=true)
+
+### Deleting an Employee
 ![Delete Employee](https://github.com/Neelesh-BU/spring-crud-app/blob/main/Screenshots/3-DeletingEmployee.png?raw=true)
 
