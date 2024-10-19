@@ -18,7 +18,7 @@ mvn spring-boot:run
 ```
 
 
-## Running the backend application locally
+## Running the frontend application locally
 ```shell
 cd frontend
 
